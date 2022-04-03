@@ -1,0 +1,30 @@
+.search-bar{
+    margin: -17px 70px;
+    background-color: #eeeefc;
+    text-align: center;
+    width: 1160px;
+    position: relative; 
+}
+
+.first-box{
+    width: 500px;
+    background-color: #7ee5da;
+}
+
+.second-box{
+    background-color: #70ccc2;
+    width: 250px; 
+}
+
+.third-box{
+    background-color: #62b3aa;
+    width: 400px;
+}
+.center{
+    margin: 0 auto;
+}
+
+.bottom-bar{
+    margin: -22px 71px;
+    text-align: center;  
+}
